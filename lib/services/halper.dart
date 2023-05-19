@@ -3,7 +3,7 @@ import 'package:flutter/services.dart' as the_bundle;
 import '../models/sneaker_model.dart';
 
 
-// this class fetches data from the json file and return it to the app
+
 class Helper {
   // Male
   Future<List<Sneakers>> getMaleSneakers() async {

@@ -1,16 +1,8 @@
-# online_shop_project
+# Online Shop Project
 
-A new Flutter project.
+## Ana sayfa
+![Screenshot_1684499536](https://github.com/umitavc/online-shop-project/assets/62944836/53e4304e-72a3-4507-b09b-cf92fe33850b)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
