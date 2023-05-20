@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:online_shop_project/controllers/mainscreen_provider.dart';
 import 'package:online_shop_project/views/ui/cartPage.dart';
 import 'package:online_shop_project/views/ui/homePage.dart';
+import 'package:online_shop_project/views/ui/product_by_cat.dart';
 import 'package:online_shop_project/views/ui/profile.dart';
 import 'package:online_shop_project/views/ui/searchPage.dart';
 import 'package:provider/provider.dart';
@@ -18,7 +19,7 @@ class MainScreen extends StatelessWidget {
   List <Widget> pageList = const[
     HomePage(),
     SearchPage(),
-    HomePage(),
+    ProductByCat(),
     CartPage(),
     ProfilePage(),
   ];
